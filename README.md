@@ -1,10 +1,10 @@
-# Growth Mindset
+## Growth Mindset
                                                        
                                                        
    ![Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)                     
                                                        
 
-## consider you be able to develop yourself through perseverance and effort by practice and working hard to develop your talents.
+### consider you be able to develop yourself through perseverance and effort by practice and working hard to develop your talents.
 
 *You can maintain a growth mindset by adjusting how you deal with the things that face you like:*
 
