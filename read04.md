@@ -1,0 +1,21 @@
+## JavaScrept
+- A script is a series of instructions that the computer can follow in order to achieve a goal.
+
+- Each time the script runs, it might only use a subset of all the instructions. 
+- Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+- To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
+
+
+
+## Expressions And Operators
+
+### EXPRESSIONS
+
+* EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE "var name ='Ali' ; "
+* EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE " var area = 3 * 2;  "
+
+### OPERATORS
+* ASSIGNMENT OPERATORS " = "
+* COMPARISON OPERATORS " <,>,<=,>=,==,===,!=" 
+* ARITHMETIC OPERATORS " +,-,*,--,++,/,% " 
+
