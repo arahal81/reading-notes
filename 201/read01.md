@@ -38,8 +38,8 @@ By HTML5 you can divide up your web page
 ## Process & Design
 * It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return .
 * Site maps allow you to plan the structure of a site.
-![Site maps](201/SiteMap.PNG);
+![Site maps](imges/SiteMap.PNG);
 * A wireframe is a simple sketch of the key information that needs to go on each page of a site. 
-![Wireframe](201/Wireframe.PNG);
+![Wireframe](imges/Wireframe.PNG);
 * ** Visual hierarchy ** refers to the order in which your eyes perceive what they see It is created by adding visual contrast between the items being displayed. 
 * Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized
