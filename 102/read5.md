@@ -3,6 +3,7 @@
 
 #### the result of evaluating conditions will be boolean "true or false"
 
+
 * is equal to "==".
 * is not equal to "!=".
 * strict equal to "===".
