@@ -1,7 +1,8 @@
-# read 6
+# read 7
 
 
   ## Tables
+  
   #### A table represents information in a grid format. **Examples of tables include financial reports, TV schedules, and sports results.**
   * The ```<table>``` element is used to create a table. The contents of the table are written out row by row.
   * You indicate the start of each row using the opening ```<tr>``` tag. 
