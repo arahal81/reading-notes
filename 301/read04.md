@@ -4,13 +4,13 @@
 * Forms are very useful in any web application.
 * HTML form elements work a little bit differently from other DOM elements in React, because form elements naturally keep some internal state.
 
-> <form>
-  <label>
-    Name:
-    <input type="text" name="name" />
-  </label>
-  <input type="submit" value="Submit" />
- </form>
+> `<form>`
+  `<label>`
+   ` Name:`
+    `<input type="text" name="name" />`
+  `</label>`
+  `<input type="submit" value="Submit" />`
+ `</form>`
   
 * There are two types of form input in React. We have the uncontrolled input and the controlled input. 
 
