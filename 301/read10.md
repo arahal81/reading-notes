@@ -9,7 +9,7 @@
 3. What does LIFO mean?
     * Last In, First Out.
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-    * [call stack](imges/callstack.jpeg)
+    * [call stack](../imges/callstack.jpeg)
 5. What causes a Stack Overflow?
     * occures when there is a recursive function (a function that calls itself) without an exit point.
 
