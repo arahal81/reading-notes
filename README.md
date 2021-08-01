@@ -60,7 +60,6 @@
 | read02  | [read02](https://arahal81.github.io/reading-notes/401/read02) |
 | read03  | [read03](https://arahal81.github.io/reading-notes/401/read03) |
 | read04  | [read04](https://arahal81.github.io/reading-notes/401/read04) |
-| read01  | [read01](https://arahal81.github.io/reading-notes/401/read01) |
 | read05  | [read05](https://arahal81.github.io/reading-notes/401/read05) |
 | read06  | [read06](https://arahal81.github.io/reading-notes/401/read06) |
 | read07  | [read07](https://arahal81.github.io/reading-notes/401/read07) |
