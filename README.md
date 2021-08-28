@@ -75,12 +75,6 @@
 | read17  | [read17](https://arahal81.github.io/reading-notes/401/read17) |
 | read18  | [read18](https://arahal81.github.io/reading-notes/401/read18) |
 | read19  | [read19](https://arahal81.github.io/reading-notes/401/read19) |
-| read20  | [read20](https://arahal81.github.io/reading-notes/401/read20) |
-| read21  | [read21](https://arahal81.github.io/reading-notes/401/read21) |
-| read22  | [read22](https://arahal81.github.io/reading-notes/401/read22) |
-| read23  | [read23](https://arahal81.github.io/reading-notes/401/read23) |
-| read24  | [read24](https://arahal81.github.io/reading-notes/401/read24) |
-| read25  | [read25](https://arahal81.github.io/reading-notes/401/read25) |
 | read26  | [read26](https://arahal81.github.io/reading-notes/401/read26) |
 | read27  | [read27](https://arahal81.github.io/reading-notes/401/read27) |
 | read28  | [read28](https://arahal81.github.io/reading-notes/401/read28) |
@@ -99,4 +93,3 @@
 | read41  | [read41](https://arahal81.github.io/reading-notes/401/read41) |
 | read42  | [read42](https://arahal81.github.io/reading-notes/401/read42) |
 | read43  | [read43](https://arahal81.github.io/reading-notes/401/read43) |
-| read44  | [read44](https://arahal81.github.io/reading-notes/401/read44) |
